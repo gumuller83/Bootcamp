@@ -51,6 +51,6 @@ function y(a){
 b = y(10);
 console.log(b);
 //console:
-hello
+
 
 
