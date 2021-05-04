@@ -22,7 +22,7 @@ function y(num1, num2){
  }
  console.log(y(2,3))
  console.log(y(3,5))
- //console:
+ //console:5,8
 
  function y(num1, num2){
     console.log(num1);   
@@ -30,7 +30,7 @@ function y(num1, num2){
  }
  console.log(y(2,3))
  console.log(y(3,5))
- //console:
+ //console:2,5,3,8
 
  a = 15;
 console.log(a);
@@ -40,7 +40,7 @@ function y(a){
 }
 b = y(10);
 console.log(b);
-//console:
+//console:15,10,10
 
 a = 15;
 console.log(a);
@@ -50,7 +50,7 @@ function y(a){
 }
 b = y(10);
 console.log(b);
-//console:
+//console:15,10,20
 
 
 
